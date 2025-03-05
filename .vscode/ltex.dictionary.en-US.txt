@@ -2,6 +2,7 @@ ALTEQ
 apres
 AprèsSQI
 Asiacrypt
+automorphisms
 Automorphisms
 B-SIDH
 biextension
@@ -9,6 +10,7 @@ biextensions
 bilinearity
 Clapoti
 co-primality
+codomain
 Codomain
 codomains
 commutatively
@@ -31,6 +33,7 @@ DACs
 dCSIDH
 decapsulation
 decisional
+derandomized
 Derandomized
 Deuring
 Diffie
@@ -40,7 +43,9 @@ Diffie-Hellman-Merkle
 doublings
 duals
 Elligator
+endomorphism
 Endomorphism
+endomorphisms
 Endomorphisms
 exponentiations
 fast-ish
@@ -53,15 +58,19 @@ GAIP
 Hadamard
 HECC
 Honours
+hyperelliptic
 Hyperelliptic
 ideal-to-isogeny
 Igusa-Clebsch
 innovatively
+isogenies
 Isogenies
 isogenous
+isogeny
 Isogeny
 isogeny-based
 isogeny-to-ideal
+isometries
 Isometries
 isomorphisms
 Jacobian
@@ -80,7 +89,7 @@ MacWilliams
 matricial
 Matryoshka
 maximality
-MCycles
+Mcycles
 Merkle
 Milheeze
 MITM
@@ -92,7 +101,6 @@ multbit
 NIKE
 NIKEs
 OAYT
-ont-cij-ferd
 Onuki
 Oorschot-Wiener
 pointwise
@@ -130,6 +138,7 @@ SQIsign
 SQIsign-based
 SQIsignHD
 subring
+supersingular
 Supersingular
 supersingularity
 superspecial
